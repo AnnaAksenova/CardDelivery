@@ -1,0 +1,6 @@
+ru/netology/patterns/DeliveryCardTest.java
+ ru.netology.patterns.DeliveryCardTest
+ru/netology/patterns/DataGenerator.java
+ ru.netology.patterns.DataGenerator
+ ru.netology.patterns.DataGenerator$Registration
+ ru.netology.patterns.DataGenerator$User
