@@ -3,6 +3,9 @@ package ru.netology.patterns;
 import com.github.javafaker.Faker;
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
+import io.github.bonigarcia.wdm.WebDriverManager;
+import org.openqa.selenium.WebDriver;
+
 
 import java.time.LocalDate;
 import java.time.format.DateTimeFormatter;
